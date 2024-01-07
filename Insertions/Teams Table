@@ -1,0 +1,10 @@
+SQL>INSERT INTO teams (team_id, team_name, college, place, coach, sport_id)
+VALUES ('T1', 'Team A', 'vnr', 'hyderabad', 'C-101', 'S1');
+SQL>INSERT INTO teams (team_id, team_name, college, place, coach, sport_id)
+VALUES ('T2', 'Team B', 'grec', 'hyderabad', 'C-112', 'S2');
+SQL>INSERT INTO teams (team_id, team_name, college, place, coach, sport_id)
+VALUES ('T3', 'Team C', 'deccan college', 'hyderabad', 'C-54', 'S3');
+SQL>INSERT INTO teams (team_id, team_name, college, place, coach, sport_id)
+VALUES ('T4', 'Team D', 'tkr college', 'warangal', 'C-903', 'S4');
+SQL>INSERT INTO teams (team_id, team_name, college, place, coach, sport_id)
+VALUES ('T5', 'Team E', 'licet', 'chennai', 'C-123', 'S5');

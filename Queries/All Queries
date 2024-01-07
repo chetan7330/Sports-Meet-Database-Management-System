@@ -1,0 +1,6 @@
+SELECT * DROM players where eam_id='T5';
+SELECT AVG(age) as average_age FROM player where team_id='T1';
+UPDATE playes SET contact='9018302910' where player_name='rose';
+SELECT * FROM results where id='R2';
+SELECT no_of_teams FROM sports where sport_id='S5';
+SELECT team_name,coach FROM teams;

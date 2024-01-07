@@ -1,0 +1,5 @@
+CREATE TABLE teams(
+    team_id varchar2(5) PRIMARY KEY NOT NULL, team_name varchar2(30), college varchar2(30),
+    place varchar2(30), coach varchar2(30),
+    sport_id varchar2(10), FOREIGN KEY (sport_id) REFERENCES sports(sport_id)
+);

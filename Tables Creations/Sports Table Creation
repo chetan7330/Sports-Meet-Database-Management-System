@@ -1,0 +1,3 @@
+CREATE TABLE sports(
+  sport_id varchar2(5) PRIMARY KEY NOT NULL, sport_name varchar2(20),
+  sport_type varchar2(4) check (sport_type in ('I','G')), no_of_teams int);
