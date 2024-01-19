@@ -1,10 +1,15 @@
-SQL>INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
+INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
 VALUES ('R1', TO_DATE('2023-01-01', 'YYYY-MM-DD'), 'S1', 'T1', 'T2', 3, 2, 'Team 1 won');
-SQL>INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
+
+
+INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
 VALUES ('R2', TO_DATE('2023-01-02', 'YYYY-MM-DD'), 'S2', 'T3', 'T4', 1, 1, 'Match drawn');
-SQL>INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
+
+INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
 VALUES ('R3', TO_DATE('2023-01-03', 'YYYY-MM-DD'), 'S3', 'T5', 'T6', 2, 3, 'Team 2 won');
-SQL>INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
+
+INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
 VALUES ('R4', TO_DATE('2023-01-04', 'YYYY-MM-DD'), 'S4', 'T7', 'T8', 4, 1, 'Team 1 won');
-SQL>INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
-VALUES ('R5', TO_DATE('2023-01-05', 'YYYY-MM-DD'), 'S5', 'T9', 'T10', 2, 3, 'Team 2 won');
+
+INSERT INTO results (id, match_date, sport_id, team_1_id, team_2_id, team_1_score, team_2_score, team_status)
+VALUES ('R5', TO_DATE('2023-01-05', 'YYYY-MM-DD'), 'S5', 'T9', 'T10', 2, 3, 'Team 2' );

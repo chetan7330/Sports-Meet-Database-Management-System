@@ -1,10 +1,14 @@
-SQL>INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
+INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
 VALUES ('S1', 'Football', 'G', 20);
-SQL>INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
+
+INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
 VALUES ('S2', 'Basketball', 'G', 15);
-SQL>INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
+
+INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
 VALUES ('S3', 'Tennis', 'I', 2);
-SQL>INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
+
+INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
 VALUES ('S4', 'Baseball', 'G', 10);
-SQL>INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
+
+INSERT INTO sports (sport_id, sport_name, sport_type, no_of_teams)
 VALUES ('S5', 'Swimming', 'I', 2);

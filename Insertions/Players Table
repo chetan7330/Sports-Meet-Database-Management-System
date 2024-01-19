@@ -1,18 +1,27 @@
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (1, 'smith', 18, 'M', 'kukatpally', 'medchal', 12345, 9876543210, 'smith123@email.com', 'T1');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (2, 'chloe', 20, 'F', 'pangra', 'nizamabad', 54321, 9876543211, 'chloee@email.com', 'T2');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (3, 'adam', 22, 'M', 'bachupally', 'medchal', 67890, 9876543212, 'adam52@email.com', 'T3');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (4, 'anna', 19, 'F', 'devi colony', 'bidar', 98765, 9876543213, 'ana.p@email.com', 'T4');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (5, 'clark', 21, 'M', 'kazipet', 'warangal', 23456, 9876543214, 'clark.c@email.com', 'T5');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (6, 'alya', 17, 'F', 'alatur', 'palakkad', 76543, 9876543215, 'alya.n@email.com', 'T1');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (7, 'scott', 20, 'M', 'miyapur', 'hyderabad', 87654, 9876543216, 'scotdb@email.com', 'T2');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (8, 'rose', 18, 'F', 'ranipet', 'vellore', 34567, 9876543217, 'rose.y@email.com', 'T3');
-SQL>INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
+
+INSERT INTO player (player_id, player_name, age, gender, area, district, pincode, contact, mail, team_id)
 VALUES (9, 'milo', 22, 'M', 'bachupally', 'medchal', 45678, 9876543218, 'milo.z@email.com', 'T4');
